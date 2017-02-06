@@ -1,0 +1,1312 @@
+fileFormatVersion: 2
+guid: 9b98ee5b26d903d4c92259f0d4f65e3c
+timeCreated: 1486402934
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mogli_aktuell (1)_0
+    21300002: Mogli_aktuell (1)_1
+    21300004: Mogli_aktuell (1)_2
+    21300006: Mogli_aktuell (1)_3
+    21300008: Mogli_aktuell (1)_4
+    21300010: Mogli_aktuell (1)_5
+    21300012: Mogli_aktuell (1)_6
+    21300014: Mogli_aktuell (1)_7
+    21300016: Mogli_aktuell (1)_8
+    21300018: Mogli_aktuell (1)_9
+    21300020: Mogli_aktuell (1)_10
+    21300022: Mogli_aktuell (1)_11
+    21300024: Mogli_aktuell (1)_12
+    21300026: Mogli_aktuell (1)_13
+    21300028: Mogli_aktuell (1)_14
+    21300030: Mogli_aktuell (1)_15
+    21300032: Mogli_aktuell (1)_16
+    21300034: Mogli_aktuell (1)_17
+    21300036: Mogli_aktuell (1)_18
+    21300038: Mogli_aktuell (1)_19
+    21300040: Mogli_aktuell (1)_20
+    21300042: Mogli_aktuell (1)_21
+    21300044: Mogli_aktuell (1)_22
+    21300046: Mogli_aktuell (1)_23
+    21300048: Mogli_aktuell (1)_24
+    21300050: Mogli_aktuell (1)_25
+    21300052: Mogli_aktuell (1)_26
+    21300054: Mogli_aktuell (1)_27
+    21300056: Mogli_aktuell (1)_28
+    21300058: Mogli_aktuell (1)_29
+    21300060: Mogli_aktuell (1)_30
+    21300062: Mogli_aktuell (1)_31
+    21300064: Mogli_aktuell (1)_32
+    21300066: Mogli_aktuell (1)_33
+    21300068: Mogli_aktuell (1)_34
+    21300070: Mogli_aktuell (1)_35
+    21300072: Mogli_aktuell (1)_36
+    21300074: Mogli_aktuell (1)_37
+    21300076: Mogli_aktuell (1)_38
+    21300078: Mogli_aktuell (1)_39
+    21300080: Mogli_aktuell (1)_40
+    21300082: Mogli_aktuell (1)_41
+    21300084: Mogli_aktuell (1)_42
+    21300086: Mogli_aktuell (1)_43
+    21300088: Mogli_aktuell (1)_44
+    21300090: Mogli_aktuell (1)_45
+    21300092: Mogli_aktuell (1)_46
+    21300094: Mogli_aktuell (1)_47
+    21300096: Mogli_aktuell (1)_48
+    21300098: Mogli_aktuell (1)_49
+    21300100: Mogli_aktuell (1)_50
+    21300102: Mogli_aktuell (1)_51
+    21300104: Mogli_aktuell (1)_52
+    21300106: Mogli_aktuell (1)_53
+    21300108: Mogli_aktuell (1)_54
+    21300110: Mogli_aktuell (1)_55
+    21300112: Mogli_aktuell (1)_56
+    21300114: Mogli_aktuell (1)_57
+    21300116: Mogli_aktuell (1)_58
+    21300118: Mogli_aktuell (1)_59
+    21300120: Mogli_aktuell (1)_60
+    21300122: Mogli_aktuell (1)_61
+    21300124: Mogli_aktuell (1)_62
+    21300126: Mogli_aktuell (1)_63
+    21300128: Mogli_aktuell (1)_64
+    21300130: Mogli_aktuell (1)_65
+    21300132: Mogli_aktuell (1)_66
+    21300134: Mogli_aktuell (1)_67
+    21300136: Mogli_aktuell (1)_68
+    21300138: Mogli_aktuell (1)_69
+    21300140: Mogli_aktuell (1)_70
+    21300142: Mogli_aktuell (1)_71
+    21300144: Mogli_aktuell (1)_72
+    21300146: Mogli_aktuell (1)_73
+    21300148: Mogli_aktuell (1)_74
+    21300150: Mogli_aktuell (1)_75
+    21300152: Mogli_aktuell (1)_76
+    21300154: Mogli_aktuell (1)_77
+    21300156: Mogli_aktuell (1)_78
+    21300158: Mogli_aktuell (1)_79
+    21300160: Mogli_aktuell (1)_80
+    21300162: Mogli_aktuell (1)_81
+    21300164: Mogli_aktuell (1)_82
+    21300166: Mogli_aktuell (1)_83
+    21300168: Mogli_aktuell (1)_84
+    21300170: Mogli_aktuell (1)_85
+    21300172: Mogli_aktuell (1)_86
+    21300174: Mogli_aktuell (1)_87
+    21300176: Mogli_aktuell (1)_88
+    21300178: Mogli_aktuell (1)_89
+    21300180: Mogli_aktuell (1)_90
+    21300182: Mogli_aktuell (1)_91
+    21300184: Mogli_aktuell (1)_92
+    21300186: Mogli_aktuell (1)_93
+    21300188: Mogli_aktuell (1)_94
+    21300190: Mogli_aktuell (1)_95
+    21300192: Mogli_aktuell (1)_96
+    21300194: Mogli_aktuell (1)_97
+    21300196: Mogli_aktuell (1)_98
+    21300198: Mogli_aktuell (1)_99
+    21300200: Mogli_aktuell (1)_100
+    21300202: Mogli_aktuell (1)_101
+    21300204: Mogli_aktuell (1)_102
+    21300206: Mogli_aktuell (1)_103
+    21300208: Mogli_aktuell (1)_104
+    21300210: Mogli_aktuell (1)_105
+    21300212: Mogli_aktuell (1)_106
+    21300214: Mogli_aktuell (1)_107
+    21300216: Mogli_aktuell (1)_108
+    21300218: Mogli_aktuell (1)_109
+    21300220: Mogli_aktuell (1)_110
+    21300222: Mogli_aktuell (1)_111
+    21300224: Mogli_aktuell (1)_112
+    21300226: Mogli_aktuell (1)_113
+    21300228: Mogli_aktuell (1)_114
+    21300230: Mogli_aktuell (1)_115
+    21300232: Mogli_aktuell (1)_116
+    21300234: Mogli_aktuell (1)_117
+    21300236: Mogli_aktuell (1)_118
+    21300238: Mogli_aktuell (1)_119
+    21300240: Mogli_aktuell (1)_120
+    21300242: Mogli_aktuell (1)_121
+    21300244: Mogli_aktuell (1)_122
+    21300246: Mogli_aktuell (1)_123
+    21300248: Mogli_aktuell (1)_124
+    21300250: Mogli_aktuell (1)_125
+    21300252: Mogli_aktuell (1)_126
+    21300254: Mogli_aktuell (1)_127
+    21300256: Mogli_aktuell (1)_128
+    21300258: Mogli_aktuell (1)_129
+    21300260: Mogli_aktuell (1)_130
+    21300262: Mogli_aktuell (1)_131
+    21300264: Mogli_aktuell (1)_132
+    21300266: Mogli_aktuell (1)_133
+    21300268: Mogli_aktuell (1)_134
+    21300270: Mogli_aktuell (1)_135
+    21300272: Mogli_aktuell (1)_136
+    21300274: Mogli_aktuell (1)_137
+    21300276: Mogli_aktuell (1)_138
+    21300278: Mogli_aktuell (1)_139
+    21300280: Mogli_aktuell (1)_140
+    21300282: Mogli_aktuell (1)_141
+    21300284: Mogli_aktuell (1)_142
+    21300286: Mogli_aktuell (1)_143
+    21300288: Mogli_aktuell (1)_144
+    21300290: Mogli_aktuell (1)_145
+    21300292: Mogli_aktuell (1)_146
+    21300294: Mogli_aktuell (1)_147
+    21300296: Mogli_aktuell (1)_148
+    21300298: Mogli_aktuell (1)_149
+    21300300: Mogli_aktuell (1)_150
+    21300302: Mogli_aktuell (1)_151
+    21300304: Mogli_aktuell (1)_152
+    21300306: Mogli_aktuell (1)_153
+    21300308: Mogli_aktuell (1)_154
+    21300310: Mogli_aktuell (1)_155
+    21300312: Mogli_aktuell (1)_156
+    21300314: Mogli_aktuell (1)_157
+    21300316: Mogli_aktuell (1)_158
+    21300318: Mogli_aktuell (1)_159
+    21300320: Mogli_aktuell (1)_160
+    21300322: Mogli_aktuell (1)_161
+    21300324: Mogli_aktuell (1)_162
+    21300326: Mogli_aktuell (1)_163
+    21300328: Mogli_aktuell (1)_164
+    21300330: Mogli_aktuell (1)_165
+    21300332: Mogli_aktuell (1)_166
+    21300334: Mogli_aktuell (1)_167
+    21300336: Mogli_aktuell (1)_168
+    21300338: Mogli_aktuell (1)_169
+    21300340: Mogli_aktuell (1)_170
+    21300342: Mogli_aktuell (1)_171
+    21300344: Mogli_aktuell (1)_172
+    21300346: Mogli_aktuell (1)_173
+    21300348: Mogli_aktuell (1)_174
+    21300350: Mogli_aktuell (1)_175
+    21300352: Mogli_aktuell (1)_176
+    21300354: Mogli_aktuell (1)_177
+    21300356: Mogli_aktuell (1)_178
+    21300358: Mogli_aktuell (1)_179
+    21300360: Mogli_aktuell (1)_180
+    21300362: Mogli_aktuell (1)_181
+    21300364: Mogli_aktuell (1)_182
+    21300366: Mogli_aktuell (1)_183
+    21300368: Mogli_aktuell (1)_184
+    21300370: Mogli_aktuell (1)_185
+    21300372: Mogli_aktuell (1)_186
+    21300374: Mogli_aktuell (1)_187
+    21300376: Mogli_aktuell (1)_188
+    21300378: Mogli_aktuell (1)_189
+    21300380: Mogli_aktuell (1)_190
+    21300382: Mogli_aktuell (1)_191
+    21300384: Mogli_aktuell (1)_192
+    21300386: Mogli_aktuell (1)_193
+    21300388: Mogli_aktuell (1)_194
+    21300390: Mogli_aktuell (1)_195
+    21300392: Mogli_aktuell (1)_196
+    21300394: Mogli_aktuell (1)_197
+    21300396: Mogli_aktuell (1)_198
+    21300398: Mogli_aktuell (1)_199
+    21300400: Mogli_aktuell (1)_200
+    21300402: Mogli_aktuell (1)_201
+    21300404: Mogli_aktuell (1)_202
+    21300406: Mogli_aktuell (1)_203
+    21300408: Mogli_aktuell (1)_204
+    21300410: Mogli_aktuell (1)_205
+    21300412: Mogli_aktuell (1)_206
+    21300414: Mogli_aktuell (1)_207
+    21300416: Mogli_aktuell (1)_208
+    21300418: Mogli_aktuell (1)_209
+    21300420: Mogli_aktuell (1)_210
+    21300422: Mogli_aktuell (1)_211
+    21300424: Mogli_aktuell (1)_212
+    21300426: Mogli_aktuell (1)_213
+    21300428: Mogli_aktuell (1)_214
+    21300430: Mogli_aktuell (1)_215
+    21300432: Mogli_aktuell (1)_216
+    21300434: Mogli_aktuell (1)_217
+    21300436: Mogli_aktuell (1)_218
+    21300438: Mogli_aktuell (1)_219
+    21300440: Mogli_aktuell (1)_220
+    21300442: Mogli_aktuell (1)_221
+    21300444: Mogli_aktuell (1)_222
+    21300446: Mogli_aktuell (1)_223
+    21300448: Mogli_aktuell (1)_224
+    21300450: Mogli_aktuell (1)_225
+    21300452: Mogli_aktuell (1)_226
+    21300454: Mogli_aktuell (1)_227
+    21300456: Mogli_aktuell (1)_228
+    21300458: Mogli_aktuell (1)_229
+    21300460: Mogli_aktuell (1)_230
+    21300462: Mogli_aktuell (1)_231
+    21300464: Mogli_aktuell (1)_232
+    21300466: Mogli_aktuell (1)_233
+    21300468: Mogli_aktuell (1)_234
+    21300470: Mogli_aktuell (1)_235
+    21300472: Mogli_aktuell (1)_236
+    21300474: Mogli_aktuell (1)_237
+    21300476: Mogli_aktuell (1)_238
+    21300478: Mogli_aktuell (1)_239
+    21300480: Mogli_aktuell (1)_240
+    21300482: Mogli_aktuell (1)_241
+    21300484: Mogli_aktuell (1)_242
+    21300486: Mogli_aktuell (1)_243
+    21300488: Mogli_aktuell (1)_244
+    21300490: Mogli_aktuell (1)_245
+    21300492: Mogli_aktuell (1)_246
+    21300494: Mogli_aktuell (1)_247
+    21300496: Mogli_aktuell (1)_248
+    21300498: Mogli_aktuell (1)_249
+    21300500: Mogli_aktuell (1)_250
+    21300502: Mogli_aktuell (1)_251
+    21300504: Mogli_aktuell (1)_252
+    21300506: Mogli_aktuell (1)_253
+    21300508: Mogli_aktuell (1)_254
+    21300510: Mogli_aktuell (1)_255
+    21300512: Mogli_aktuell (1)_256
+    21300514: Mogli_aktuell (1)_257
+    21300516: Mogli_aktuell (1)_258
+    21300518: Mogli_aktuell (1)_259
+    21300520: Mogli_aktuell (1)_260
+    21300522: Mogli_aktuell (1)_261
+    21300524: Mogli_aktuell (1)_262
+    21300526: Mogli_aktuell (1)_263
+    21300528: Mogli_aktuell (1)_264
+    21300530: Mogli_aktuell (1)_265
+    21300532: Mogli_aktuell (1)_266
+    21300534: Mogli_aktuell (1)_267
+    21300536: Mogli_aktuell (1)_268
+    21300538: Mogli_aktuell (1)_269
+    21300540: Mogli_aktuell (1)_270
+    21300542: Mogli_aktuell (1)_271
+    21300544: Mogli_aktuell (1)_272
+    21300546: Mogli_aktuell (1)_273
+    21300548: Mogli_aktuell (1)_274
+    21300550: Mogli_aktuell (1)_275
+    21300552: Mogli_aktuell (1)_276
+    21300554: Mogli_aktuell (1)_277
+    21300556: Mogli_aktuell (1)_278
+    21300558: Mogli_aktuell (1)_279
+    21300560: Mogli_aktuell (1)_280
+    21300562: Mogli_aktuell (1)_281
+    21300564: Mogli_aktuell (1)_282
+    21300566: Mogli_aktuell (1)_283
+    21300568: Mogli_aktuell (1)_284
+    21300570: Mogli_aktuell (1)_285
+    21300572: Mogli_aktuell (1)_286
+    21300574: Mogli_aktuell (1)_287
+    21300576: Mogli_aktuell (1)_288
+    21300578: Mogli_aktuell (1)_289
+    21300580: Mogli_aktuell (1)_290
+    21300582: Mogli_aktuell (1)_291
+    21300584: Mogli_aktuell (1)_292
+    21300586: Mogli_aktuell (1)_293
+    21300588: Mogli_aktuell (1)_294
+    21300590: Mogli_aktuell (1)_295
+    21300592: Mogli_aktuell (1)_296
+    21300594: Mogli_aktuell (1)_297
+    21300596: Mogli_aktuell (1)_298
+    21300598: Mogli_aktuell (1)_299
+    21300600: Mogli_aktuell (1)_300
+    21300602: Mogli_aktuell (1)_301
+    21300604: Mogli_aktuell (1)_302
+    21300606: Mogli_aktuell (1)_303
+    21300608: Mogli_aktuell (1)_304
+    21300610: Mogli_aktuell (1)_305
+    21300612: Mogli_aktuell (1)_306
+    21300614: Mogli_aktuell (1)_307
+    21300616: Mogli_aktuell (1)_308
+    21300618: Mogli_aktuell (1)_309
+    21300620: Mogli_aktuell (1)_310
+    21300622: Mogli_aktuell (1)_311
+    21300624: Mogli_aktuell (1)_312
+    21300626: Mogli_aktuell (1)_313
+    21300628: Mogli_aktuell (1)_314
+    21300630: Mogli_aktuell (1)_315
+    21300632: Mogli_aktuell (1)_316
+    21300634: Mogli_aktuell (1)_317
+    21300636: Mogli_aktuell (1)_318
+    21300638: Mogli_aktuell (1)_319
+    21300640: Mogli_aktuell (1)_320
+    21300642: Mogli_aktuell (1)_321
+    21300644: Mogli_aktuell (1)_322
+    21300646: Mogli_aktuell (1)_323
+    21300648: Mogli_aktuell (1)_324
+    21300650: Mogli_aktuell (1)_325
+    21300652: Mogli_aktuell (1)_326
+    21300654: Mogli_aktuell (1)_327
+    21300656: Mogli_aktuell (1)_328
+    21300658: Mogli_aktuell (1)_329
+    21300660: Mogli_aktuell (1)_330
+    21300662: Mogli_aktuell (1)_331
+    21300664: Mogli_aktuell (1)_332
+    21300666: Mogli_aktuell (1)_333
+    21300668: Mogli_aktuell (1)_334
+    21300670: Mogli_aktuell (1)_335
+    21300672: Mogli_aktuell (1)_336
+    21300674: Mogli_aktuell (1)_337
+    21300676: Mogli_aktuell (1)_338
+    21300678: Mogli_aktuell (1)_339
+    21300680: Mogli_aktuell (1)_340
+    21300682: Mogli_aktuell (1)_341
+    21300684: Mogli_aktuell (1)_342
+    21300686: Mogli_aktuell (1)_343
+    21300688: Mogli_aktuell (1)_344
+    21300690: Mogli_aktuell (1)_345
+    21300692: Mogli_aktuell (1)_346
+    21300694: Mogli_aktuell (1)_347
+    21300696: Mogli_aktuell (1)_348
+    21300698: Mogli_aktuell (1)_349
+    21300700: Mogli_aktuell (1)_350
+    21300702: Mogli_aktuell (1)_351
+    21300704: Mogli_aktuell (1)_352
+    21300706: Mogli_aktuell (1)_353
+    21300708: Mogli_aktuell (1)_354
+    21300710: Mogli_aktuell (1)_355
+    21300712: Mogli_aktuell (1)_356
+    21300714: Mogli_aktuell (1)_357
+    21300716: Mogli_aktuell (1)_358
+    21300718: Mogli_aktuell (1)_359
+    21300720: Mogli_aktuell (1)_360
+    21300722: Mogli_aktuell (1)_361
+    21300724: Mogli_aktuell (1)_362
+    21300726: Mogli_aktuell (1)_363
+    21300728: Mogli_aktuell (1)_364
+    21300730: Mogli_aktuell (1)_365
+    21300732: Mogli_aktuell (1)_366
+    21300734: Mogli_aktuell (1)_367
+    21300736: Mogli_aktuell (1)_368
+    21300738: Mogli_aktuell (1)_369
+    21300740: Mogli_aktuell (1)_370
+    21300742: Mogli_aktuell (1)_371
+    21300744: Mogli_aktuell (1)_372
+    21300746: Mogli_aktuell (1)_373
+    21300748: Mogli_aktuell (1)_374
+    21300750: Mogli_aktuell (1)_375
+    21300752: Mogli_aktuell (1)_376
+    21300754: Mogli_aktuell (1)_377
+    21300756: Mogli_aktuell (1)_378
+    21300758: Mogli_aktuell (1)_379
+    21300760: Mogli_aktuell (1)_380
+    21300762: Mogli_aktuell (1)_381
+    21300764: Mogli_aktuell (1)_382
+    21300766: Mogli_aktuell (1)_383
+    21300768: Mogli_aktuell (1)_384
+    21300770: Mogli_aktuell (1)_385
+    21300772: Mogli_aktuell (1)_386
+    21300774: Mogli_aktuell (1)_387
+    21300776: Mogli_aktuell (1)_388
+    21300778: Mogli_aktuell (1)_389
+    21300780: Mogli_aktuell (1)_390
+    21300782: Mogli_aktuell (1)_391
+    21300784: Mogli_aktuell (1)_392
+    21300786: Mogli_aktuell (1)_393
+    21300788: Mogli_aktuell (1)_394
+    21300790: Mogli_aktuell (1)_395
+    21300792: Mogli_aktuell (1)_396
+    21300794: Mogli_aktuell (1)_397
+    21300796: Mogli_aktuell (1)_398
+    21300798: Mogli_aktuell (1)_399
+    21300800: Mogli_aktuell (1)_400
+    21300802: Mogli_aktuell (1)_401
+    21300804: Mogli_aktuell (1)_402
+    21300806: Mogli_aktuell (1)_403
+    21300808: Mogli_aktuell (1)_404
+    21300810: Mogli_aktuell (1)_405
+    21300812: Mogli_aktuell (1)_406
+    21300814: Mogli_aktuell (1)_407
+    21300816: Mogli_aktuell (1)_408
+    21300818: Mogli_aktuell (1)_409
+    21300820: Mogli_aktuell (1)_410
+    21300822: Mogli_aktuell (1)_411
+    21300824: Mogli_aktuell (1)_412
+    21300826: Mogli_aktuell (1)_413
+    21300828: Mogli_aktuell (1)_414
+    21300830: Mogli_aktuell (1)_415
+    21300832: Mogli_aktuell (1)_416
+    21300834: Mogli_aktuell (1)_417
+    21300836: Mogli_aktuell (1)_418
+    21300838: Mogli_aktuell (1)_419
+    21300840: Mogli_aktuell (1)_420
+    21300842: Mogli_aktuell (1)_421
+    21300844: Mogli_aktuell (1)_422
+    21300846: Mogli_aktuell (1)_423
+    21300848: Mogli_aktuell (1)_424
+    21300850: Mogli_aktuell (1)_425
+    21300852: Mogli_aktuell (1)_426
+    21300854: Mogli_aktuell (1)_427
+    21300856: Mogli_aktuell (1)_428
+    21300858: Mogli_aktuell (1)_429
+    21300860: Mogli_aktuell (1)_430
+    21300862: Mogli_aktuell (1)_431
+    21300864: Mogli_aktuell (1)_432
+    21300866: Mogli_aktuell (1)_433
+    21300868: Mogli_aktuell (1)_434
+    21300870: Mogli_aktuell (1)_435
+    21300872: Mogli_aktuell (1)_436
+    21300874: Mogli_aktuell (1)_437
+    21300876: Mogli_aktuell (1)_438
+    21300878: Mogli_aktuell (1)_439
+    21300880: Mogli_aktuell (1)_440
+    21300882: Mogli_aktuell (1)_441
+    21300884: Mogli_aktuell (1)_442
+    21300886: Mogli_aktuell (1)_443
+    21300888: Mogli_aktuell (1)_444
+    21300890: Mogli_aktuell (1)_445
+    21300892: Mogli_aktuell (1)_446
+    21300894: Mogli_aktuell (1)_447
+    21300896: Mogli_aktuell (1)_448
+    21300898: Mogli_aktuell (1)_449
+    21300900: Mogli_aktuell (1)_450
+    21300902: Mogli_aktuell (1)_451
+    21300904: Mogli_aktuell (1)_452
+    21300906: Mogli_aktuell (1)_453
+    21300908: Mogli_aktuell (1)_454
+    21300910: Mogli_aktuell (1)_455
+    21300912: Mogli_aktuell (1)_456
+    21300914: Mogli_aktuell (1)_457
+    21300916: Mogli_aktuell (1)_458
+    21300918: Mogli_aktuell (1)_459
+    21300920: Mogli_aktuell (1)_460
+    21300922: Mogli_aktuell (1)_461
+    21300924: Mogli_aktuell (1)_462
+    21300926: Mogli_aktuell (1)_463
+    21300928: Mogli_aktuell (1)_464
+    21300930: Mogli_aktuell (1)_465
+    21300932: Mogli_aktuell (1)_466
+    21300934: Mogli_aktuell (1)_467
+    21300936: Mogli_aktuell (1)_468
+    21300938: Mogli_aktuell (1)_469
+    21300940: Mogli_aktuell (1)_470
+    21300942: Mogli_aktuell (1)_471
+    21300944: Mogli_aktuell (1)_472
+    21300946: Mogli_aktuell (1)_473
+    21300948: Mogli_aktuell (1)_474
+    21300950: Mogli_aktuell (1)_475
+    21300952: Mogli_aktuell (1)_476
+    21300954: Mogli_aktuell (1)_477
+    21300956: Mogli_aktuell (1)_478
+    21300958: Mogli_aktuell (1)_479
+    21300960: Mogli_aktuell (1)_480
+    21300962: Mogli_aktuell (1)_481
+    21300964: Mogli_aktuell (1)_482
+    21300966: Mogli_aktuell (1)_483
+    21300968: Mogli_aktuell (1)_484
+    21300970: Mogli_aktuell (1)_485
+    21300972: Mogli_aktuell (1)_486
+    21300974: Mogli_aktuell (1)_487
+    21300976: Mogli_aktuell (1)_488
+    21300978: Mogli_aktuell (1)_489
+    21300980: Mogli_aktuell (1)_490
+    21300982: Mogli_aktuell (1)_491
+    21300984: Mogli_aktuell (1)_492
+    21300986: Mogli_aktuell (1)_493
+    21300988: Mogli_aktuell (1)_494
+    21300990: Mogli_aktuell (1)_495
+    21300992: Mogli_aktuell (1)_496
+    21300994: Mogli_aktuell (1)_497
+    21300996: Mogli_aktuell (1)_498
+    21300998: Mogli_aktuell (1)_499
+    21301000: Mogli_aktuell (1)_500
+    21301002: Mogli_aktuell (1)_501
+    21301004: Mogli_aktuell (1)_502
+    21301006: Mogli_aktuell (1)_503
+    21301008: Mogli_aktuell (1)_504
+    21301010: Mogli_aktuell (1)_505
+    21301012: Mogli_aktuell (1)_506
+    21301014: Mogli_aktuell (1)_507
+    21301016: Mogli_aktuell (1)_508
+    21301018: Mogli_aktuell (1)_509
+    21301020: Mogli_aktuell (1)_510
+    21301022: Mogli_aktuell (1)_511
+    21301024: Mogli_aktuell (1)_512
+    21301026: Mogli_aktuell (1)_513
+    21301028: Mogli_aktuell (1)_514
+    21301030: Mogli_aktuell (1)_515
+    21301032: Mogli_aktuell (1)_516
+    21301034: Mogli_aktuell (1)_517
+    21301036: Mogli_aktuell (1)_518
+    21301038: Mogli_aktuell (1)_519
+    21301040: Mogli_aktuell (1)_520
+    21301042: Mogli_aktuell (1)_521
+    21301044: Mogli_aktuell (1)_522
+    21301046: Mogli_aktuell (1)_523
+    21301048: Mogli_aktuell (1)_524
+    21301050: Mogli_aktuell (1)_525
+    21301052: Mogli_aktuell (1)_526
+    21301054: Mogli_aktuell (1)_527
+    21301056: Mogli_aktuell (1)_528
+    21301058: Mogli_aktuell (1)_529
+    21301060: Mogli_aktuell (1)_530
+    21301062: Mogli_aktuell (1)_531
+    21301064: Mogli_aktuell (1)_532
+    21301066: Mogli_aktuell (1)_533
+    21301068: Mogli_aktuell (1)_534
+    21301070: Mogli_aktuell (1)_535
+    21301072: Mogli_aktuell (1)_536
+    21301074: Mogli_aktuell (1)_537
+    21301076: Mogli_aktuell (1)_538
+    21301078: Mogli_aktuell (1)_539
+    21301080: Mogli_aktuell (1)_540
+    21301082: Mogli_aktuell (1)_541
+    21301084: Mogli_aktuell (1)_542
+    21301086: Mogli_aktuell (1)_543
+    21301088: Mogli_aktuell (1)_544
+    21301090: Mogli_aktuell (1)_545
+    21301092: Mogli_aktuell (1)_546
+    21301094: Mogli_aktuell (1)_547
+    21301096: Mogli_aktuell (1)_548
+    21301098: Mogli_aktuell (1)_549
+    21301100: Mogli_aktuell (1)_550
+    21301102: Mogli_aktuell (1)_551
+    21301104: Mogli_aktuell (1)_552
+    21301106: Mogli_aktuell (1)_553
+    21301108: Mogli_aktuell (1)_554
+    21301110: Mogli_aktuell (1)_555
+    21301112: Mogli_aktuell (1)_556
+    21301114: Mogli_aktuell (1)_557
+    21301116: Mogli_aktuell (1)_558
+    21301118: Mogli_aktuell (1)_559
+    21301120: Mogli_aktuell (1)_560
+    21301122: Mogli_aktuell (1)_561
+    21301124: Mogli_aktuell (1)_562
+    21301126: Mogli_aktuell (1)_563
+    21301128: Mogli_aktuell (1)_564
+    21301130: Mogli_aktuell (1)_565
+    21301132: Mogli_aktuell (1)_566
+    21301134: Mogli_aktuell (1)_567
+    21301136: Mogli_aktuell (1)_568
+    21301138: Mogli_aktuell (1)_569
+    21301140: Mogli_aktuell (1)_570
+    21301142: Mogli_aktuell (1)_571
+    21301144: Mogli_aktuell (1)_572
+    21301146: Mogli_aktuell (1)_573
+    21301148: Mogli_aktuell (1)_574
+    21301150: Mogli_aktuell (1)_575
+    21301152: Mogli_aktuell (1)_576
+    21301154: Mogli_aktuell (1)_577
+    21301156: Mogli_aktuell (1)_578
+    21301158: Mogli_aktuell (1)_579
+    21301160: Mogli_aktuell (1)_580
+    21301162: Mogli_aktuell (1)_581
+    21301164: Mogli_aktuell (1)_582
+    21301166: Mogli_aktuell (1)_583
+    21301168: Mogli_aktuell (1)_584
+    21301170: Mogli_aktuell (1)_585
+    21301172: Mogli_aktuell (1)_586
+    21301174: Mogli_aktuell (1)_587
+    21301176: Mogli_aktuell (1)_588
+    21301178: Mogli_aktuell (1)_589
+    21301180: Mogli_aktuell (1)_590
+    21301182: Mogli_aktuell (1)_591
+    21301184: Mogli_aktuell (1)_592
+    21301186: Mogli_aktuell (1)_593
+    21301188: Mogli_aktuell (1)_594
+    21301190: Mogli_aktuell (1)_595
+    21301192: Mogli_aktuell (1)_596
+    21301194: Mogli_aktuell (1)_597
+    21301196: Mogli_aktuell (1)_598
+    21301198: Mogli_aktuell (1)_599
+    21301200: Mogli_aktuell (1)_600
+    21301202: Mogli_aktuell (1)_601
+    21301204: Mogli_aktuell (1)_602
+    21301206: Mogli_aktuell (1)_603
+    21301208: Mogli_aktuell (1)_604
+    21301210: Mogli_aktuell (1)_605
+    21301212: Mogli_aktuell (1)_606
+    21301214: Mogli_aktuell (1)_607
+    21301216: Mogli_aktuell (1)_608
+    21301218: Mogli_aktuell (1)_609
+    21301220: Mogli_aktuell (1)_610
+    21301222: Mogli_aktuell (1)_611
+    21301224: Mogli_aktuell (1)_612
+    21301226: Mogli_aktuell (1)_613
+    21301228: Mogli_aktuell (1)_614
+    21301230: Mogli_aktuell (1)_615
+    21301232: Mogli_aktuell (1)_616
+    21301234: Mogli_aktuell (1)_617
+    21301236: Mogli_aktuell (1)_618
+    21301238: Mogli_aktuell (1)_619
+    21301240: Mogli_aktuell (1)_620
+    21301242: Mogli_aktuell (1)_621
+    21301244: Mogli_aktuell (1)_622
+    21301246: Mogli_aktuell (1)_623
+    21301248: Mogli_aktuell (1)_624
+    21301250: Mogli_aktuell (1)_625
+    21301252: Mogli_aktuell (1)_626
+    21301254: Mogli_aktuell (1)_627
+    21301256: Mogli_aktuell (1)_628
+    21301258: Mogli_aktuell (1)_629
+    21301260: Mogli_aktuell (1)_630
+    21301262: Mogli_aktuell (1)_631
+    21301264: Mogli_aktuell (1)_632
+    21301266: Mogli_aktuell (1)_633
+    21301268: Mogli_aktuell (1)_634
+    21301270: Mogli_aktuell (1)_635
+    21301272: Mogli_aktuell (1)_636
+    21301274: Mogli_aktuell (1)_637
+    21301276: Mogli_aktuell (1)_638
+    21301278: Mogli_aktuell (1)_639
+    21301280: Mogli_aktuell (1)_640
+    21301282: Mogli_aktuell (1)_641
+    21301284: Mogli_aktuell (1)_642
+    21301286: Mogli_aktuell (1)_643
+    21301288: Mogli_aktuell (1)_644
+    21301290: Mogli_aktuell (1)_645
+    21301292: Mogli_aktuell (1)_646
+    21301294: Mogli_aktuell (1)_647
+    21301296: Mogli_aktuell (1)_648
+    21301298: Mogli_aktuell (1)_649
+    21301300: Mogli_aktuell (1)_650
+    21301302: Mogli_aktuell (1)_651
+    21301304: Mogli_aktuell (1)_652
+    21301306: Mogli_aktuell (1)_653
+    21301308: Mogli_aktuell (1)_654
+    21301310: Mogli_aktuell (1)_655
+    21301312: Mogli_aktuell (1)_656
+    21301314: Mogli_aktuell (1)_657
+    21301316: Mogli_aktuell (1)_658
+    21301318: Mogli_aktuell (1)_659
+    21301320: Mogli_aktuell (1)_660
+    21301322: Mogli_aktuell (1)_661
+    21301324: Mogli_aktuell (1)_662
+    21301326: Mogli_aktuell (1)_663
+    21301328: Mogli_aktuell (1)_664
+    21301330: Mogli_aktuell (1)_665
+    21301332: Mogli_aktuell (1)_666
+    21301334: Mogli_aktuell (1)_667
+    21301336: Mogli_aktuell (1)_668
+    21301338: Mogli_aktuell (1)_669
+    21301340: Mogli_aktuell (1)_670
+    21301342: Mogli_aktuell (1)_671
+    21301344: Mogli_aktuell (1)_672
+    21301346: Mogli_aktuell (1)_673
+    21301348: Mogli_aktuell (1)_674
+    21301350: Mogli_aktuell (1)_675
+    21301352: Mogli_aktuell (1)_676
+    21301354: Mogli_aktuell (1)_677
+    21301356: Mogli_aktuell (1)_678
+    21301358: Mogli_aktuell (1)_679
+    21301360: Mogli_aktuell (1)_680
+    21301362: Mogli_aktuell (1)_681
+    21301364: Mogli_aktuell (1)_682
+    21301366: Mogli_aktuell (1)_683
+    21301368: Mogli_aktuell (1)_684
+    21301370: Mogli_aktuell (1)_685
+    21301372: Mogli_aktuell (1)_686
+    21301374: Mogli_aktuell (1)_687
+    21301376: Mogli_aktuell (1)_688
+    21301378: Mogli_aktuell (1)_689
+    21301380: Mogli_aktuell (1)_690
+    21301382: Mogli_aktuell (1)_691
+    21301384: Mogli_aktuell (1)_692
+    21301386: Mogli_aktuell (1)_693
+    21301388: Mogli_aktuell (1)_694
+    21301390: Mogli_aktuell (1)_695
+    21301392: Mogli_aktuell (1)_696
+    21301394: Mogli_aktuell (1)_697
+    21301396: Mogli_aktuell (1)_698
+    21301398: Mogli_aktuell (1)_699
+    21301400: Mogli_aktuell (1)_700
+    21301402: Mogli_aktuell (1)_701
+    21301404: Mogli_aktuell (1)_702
+    21301406: Mogli_aktuell (1)_703
+    21301408: Mogli_aktuell (1)_704
+    21301410: Mogli_aktuell (1)_705
+    21301412: Mogli_aktuell (1)_706
+    21301414: Mogli_aktuell (1)_707
+    21301416: Mogli_aktuell (1)_708
+    21301418: Mogli_aktuell (1)_709
+    21301420: Mogli_aktuell (1)_710
+    21301422: Mogli_aktuell (1)_711
+    21301424: Mogli_aktuell (1)_712
+    21301426: Mogli_aktuell (1)_713
+    21301428: Mogli_aktuell (1)_714
+    21301430: Mogli_aktuell (1)_715
+    21301432: Mogli_aktuell (1)_716
+    21301434: Mogli_aktuell (1)_717
+    21301436: Mogli_aktuell (1)_718
+    21301438: Mogli_aktuell (1)_719
+    21301440: Mogli_aktuell (1)_720
+    21301442: Mogli_aktuell (1)_721
+    21301444: Mogli_aktuell (1)_722
+    21301446: Mogli_aktuell (1)_723
+    21301448: Mogli_aktuell (1)_724
+    21301450: Mogli_aktuell (1)_725
+    21301452: Mogli_aktuell (1)_726
+    21301454: Mogli_aktuell (1)_727
+    21301456: Mogli_aktuell (1)_728
+    21301458: Mogli_aktuell (1)_729
+    21301460: Mogli_aktuell (1)_730
+    21301462: Mogli_aktuell (1)_731
+    21301464: Mogli_aktuell (1)_732
+    21301466: Mogli_aktuell (1)_733
+    21301468: Mogli_aktuell (1)_734
+    21301470: Mogli_aktuell (1)_735
+    21301472: Mogli_aktuell (1)_736
+    21301474: Mogli_aktuell (1)_737
+    21301476: Mogli_aktuell (1)_738
+    21301478: Mogli_aktuell (1)_739
+    21301480: Mogli_aktuell (1)_740
+    21301482: Mogli_aktuell (1)_741
+    21301484: Mogli_aktuell (1)_742
+    21301486: Mogli_aktuell (1)_743
+    21301488: Mogli_aktuell (1)_744
+    21301490: Mogli_aktuell (1)_745
+    21301492: Mogli_aktuell (1)_746
+    21301494: Mogli_aktuell (1)_747
+    21301496: Mogli_aktuell (1)_748
+    21301498: Mogli_aktuell (1)_749
+    21301500: Mogli_aktuell (1)_750
+    21301502: Mogli_aktuell (1)_751
+    21301504: Mogli_aktuell (1)_752
+    21301506: Mogli_aktuell (1)_753
+    21301508: Mogli_aktuell (1)_754
+    21301510: Mogli_aktuell (1)_755
+    21301512: Mogli_aktuell (1)_756
+    21301514: Mogli_aktuell (1)_757
+    21301516: Mogli_aktuell (1)_758
+    21301518: Mogli_aktuell (1)_759
+    21301520: Mogli_aktuell (1)_760
+    21301522: Mogli_aktuell (1)_761
+    21301524: Mogli_aktuell (1)_762
+    21301526: Mogli_aktuell (1)_763
+    21301528: Mogli_aktuell (1)_764
+    21301530: Mogli_aktuell (1)_765
+    21301532: Mogli_aktuell (1)_766
+    21301534: Mogli_aktuell (1)_767
+    21301536: Mogli_aktuell (1)_768
+    21301538: Mogli_aktuell (1)_769
+    21301540: Mogli_aktuell (1)_770
+    21301542: Mogli_aktuell (1)_771
+    21301544: Mogli_aktuell (1)_772
+    21301546: Mogli_aktuell (1)_773
+    21301548: Mogli_aktuell (1)_774
+    21301550: Mogli_aktuell (1)_775
+    21301552: Mogli_aktuell (1)_776
+    21301554: Mogli_aktuell (1)_777
+    21301556: Mogli_aktuell (1)_778
+    21301558: Mogli_aktuell (1)_779
+    21301560: Mogli_aktuell (1)_780
+    21301562: Mogli_aktuell (1)_781
+    21301564: Mogli_aktuell (1)_782
+    21301566: Mogli_aktuell (1)_783
+    21301568: Mogli_aktuell (1)_784
+    21301570: Mogli_aktuell (1)_785
+    21301572: Mogli_aktuell (1)_786
+    21301574: Mogli_aktuell (1)_787
+    21301576: Mogli_aktuell (1)_788
+    21301578: Mogli_aktuell (1)_789
+    21301580: Mogli_aktuell (1)_790
+    21301582: Mogli_aktuell (1)_791
+    21301584: Mogli_aktuell (1)_792
+    21301586: Mogli_aktuell (1)_793
+    21301588: Mogli_aktuell (1)_794
+    21301590: Mogli_aktuell (1)_795
+    21301592: Mogli_aktuell (1)_796
+    21301594: Mogli_aktuell (1)_797
+    21301596: Mogli_aktuell (1)_798
+    21301598: Mogli_aktuell (1)_799
+    21301600: Mogli_aktuell (1)_800
+    21301602: Mogli_aktuell (1)_801
+    21301604: Mogli_aktuell (1)_802
+    21301606: Mogli_aktuell (1)_803
+    21301608: Mogli_aktuell (1)_804
+    21301610: Mogli_aktuell (1)_805
+    21301612: Mogli_aktuell (1)_806
+    21301614: Mogli_aktuell (1)_807
+    21301616: Mogli_aktuell (1)_808
+    21301618: Mogli_aktuell (1)_809
+    21301620: Mogli_aktuell (1)_810
+    21301622: Mogli_aktuell (1)_811
+    21301624: Mogli_aktuell (1)_812
+    21301626: Mogli_aktuell (1)_813
+    21301628: Mogli_aktuell (1)_814
+    21301630: Mogli_aktuell (1)_815
+    21301632: Mogli_aktuell (1)_816
+    21301634: Mogli_aktuell (1)_817
+    21301636: Mogli_aktuell (1)_818
+    21301638: Mogli_aktuell (1)_819
+    21301640: Mogli_aktuell (1)_820
+    21301642: Mogli_aktuell (1)_821
+    21301644: Mogli_aktuell (1)_822
+    21301646: Mogli_aktuell (1)_823
+    21301648: Mogli_aktuell (1)_824
+    21301650: Mogli_aktuell (1)_825
+    21301652: Mogli_aktuell (1)_826
+    21301654: Mogli_aktuell (1)_827
+    21301656: Mogli_aktuell (1)_828
+    21301658: Mogli_aktuell (1)_829
+    21301660: Mogli_aktuell (1)_830
+    21301662: Mogli_aktuell (1)_831
+    21301664: Mogli_aktuell (1)_832
+    21301666: Mogli_aktuell (1)_833
+    21301668: Mogli_aktuell (1)_834
+    21301670: Mogli_aktuell (1)_835
+    21301672: Mogli_aktuell (1)_836
+    21301674: Mogli_aktuell (1)_837
+    21301676: Mogli_aktuell (1)_838
+    21301678: Mogli_aktuell (1)_839
+    21301680: Mogli_aktuell (1)_840
+    21301682: Mogli_aktuell (1)_841
+    21301684: Mogli_aktuell (1)_842
+    21301686: Mogli_aktuell (1)_843
+    21301688: Mogli_aktuell (1)_844
+    21301690: Mogli_aktuell (1)_845
+    21301692: Mogli_aktuell (1)_846
+    21301694: Mogli_aktuell (1)_847
+    21301696: Mogli_aktuell (1)_848
+    21301698: Mogli_aktuell (1)_849
+    21301700: Mogli_aktuell (1)_850
+    21301702: Mogli_aktuell (1)_851
+    21301704: Mogli_aktuell (1)_852
+    21301706: Mogli_aktuell (1)_853
+    21301708: Mogli_aktuell (1)_854
+    21301710: Mogli_aktuell (1)_855
+    21301712: Mogli_aktuell (1)_856
+    21301714: Mogli_aktuell (1)_857
+    21301716: Mogli_aktuell (1)_858
+    21301718: Mogli_aktuell (1)_859
+    21301720: Mogli_aktuell (1)_860
+    21301722: Mogli_aktuell (1)_861
+    21301724: Mogli_aktuell (1)_862
+    21301726: Mogli_aktuell (1)_863
+    21301728: Mogli_aktuell (1)_864
+    21301730: Mogli_aktuell (1)_865
+    21301732: Mogli_aktuell (1)_866
+    21301734: Mogli_aktuell (1)_867
+    21301736: Mogli_aktuell (1)_868
+    21301738: Mogli_aktuell (1)_869
+    21301740: Mogli_aktuell (1)_870
+    21301742: Mogli_aktuell (1)_871
+    21301744: Mogli_aktuell (1)_872
+    21301746: Mogli_aktuell (1)_873
+    21301748: Mogli_aktuell (1)_874
+    21301750: Mogli_aktuell (1)_875
+    21301752: Mogli_aktuell (1)_876
+    21301754: Mogli_aktuell (1)_877
+    21301756: Mogli_aktuell (1)_878
+    21301758: Mogli_aktuell (1)_879
+    21301760: Mogli_aktuell (1)_880
+    21301762: Mogli_aktuell (1)_881
+    21301764: Mogli_aktuell (1)_882
+    21301766: Mogli_aktuell (1)_883
+    21301768: Mogli_aktuell (1)_884
+    21301770: Mogli_aktuell (1)_885
+    21301772: Mogli_aktuell (1)_886
+    21301774: Mogli_aktuell (1)_887
+    21301776: Mogli_aktuell (1)_888
+    21301778: Mogli_aktuell (1)_889
+    21301780: Mogli_aktuell (1)_890
+    21301782: Mogli_aktuell (1)_891
+    21301784: Mogli_aktuell (1)_892
+    21301786: Mogli_aktuell (1)_893
+    21301788: Mogli_aktuell (1)_894
+    21301790: Mogli_aktuell (1)_895
+    21301792: Mogli_aktuell (1)_896
+    21301794: Mogli_aktuell (1)_897
+    21301796: Mogli_aktuell (1)_898
+    21301798: Mogli_aktuell (1)_899
+    21301800: Mogli_aktuell (1)_900
+    21301802: Mogli_aktuell (1)_901
+    21301804: Mogli_aktuell (1)_902
+    21301806: Mogli_aktuell (1)_903
+    21301808: Mogli_aktuell (1)_904
+    21301810: Mogli_aktuell (1)_905
+    21301812: Mogli_aktuell (1)_906
+    21301814: Mogli_aktuell (1)_907
+    21301816: Mogli_aktuell (1)_908
+    21301818: Mogli_aktuell (1)_909
+    21301820: Mogli_aktuell (1)_910
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mogli_aktuell (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
