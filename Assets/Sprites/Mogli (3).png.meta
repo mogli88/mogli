@@ -1,37 +1,30 @@
 fileFormatVersion: 2
-guid: 34cb91edd41d9124b9c5b08d2a24bc5b
-timeCreated: 1486493995
+guid: eab0a1b49610b094eaaea07e4f4d3cf7
+timeCreated: 1486507714
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Mogli_0
-    21300002: Mogli_1
-    21300004: Mogli_2
-    21300006: Mogli_3
-    21300008: Mogli_4
-    21300010: Mogli_5
-    21300012: Mogli_6
-    21300014: Mogli_7
-    21300016: Mogli_8
-    21300018: Mogli_9
-    21300020: Mogli_10
-    21300022: Mogli_11
-    21300024: Mogli_12
-    21300026: Mogli_13
-    21300028: Mogli_14
-    21300030: Mogli_15
-    21300032: Mogli_16
-    21300034: Mogli_17
-    21300036: Mogli_18
-    21300038: Mogli_19
-    21300040: Mogli_20
-    21300042: Mogli_21
-    21300044: Mogli_22
-    21300046: Mogli_23
-    21300048: Mogli_24
-    21300050: Mogli_25
-    21300052: Mogli_26
-    21300054: Mogli_27
+    21300000: Mogli (3)_0
+    21300002: Mogli (3)_1
+    21300004: Mogli (3)_2
+    21300006: Mogli (3)_3
+    21300008: Mogli (3)_4
+    21300010: Mogli (3)_5
+    21300012: Mogli (3)_6
+    21300014: Mogli (3)_7
+    21300016: Mogli (3)_8
+    21300018: Mogli (3)_9
+    21300020: Mogli (3)_10
+    21300022: Mogli (3)_11
+    21300024: Mogli (3)_12
+    21300026: Mogli (3)_13
+    21300028: Mogli (3)_14
+    21300030: Mogli (3)_15
+    21300032: Mogli (3)_16
+    21300034: Mogli (3)_17
+    21300036: Mogli (3)_18
+    21300038: Mogli (3)_19
+    21300040: Mogli (3)_20
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -106,72 +99,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mogli_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1600
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mogli_1
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 1600
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mogli_2
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 1600
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mogli_3
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 1600
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mogli_4
-      rect:
-        serializedVersion: 2
-        x: 1280
-        y: 1600
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mogli_5
+      name: Mogli (3)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -184,7 +112,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_6
+      name: Mogli (3)_1
       rect:
         serializedVersion: 2
         x: 320
@@ -197,7 +125,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_7
+      name: Mogli (3)_2
       rect:
         serializedVersion: 2
         x: 640
@@ -210,7 +138,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_8
+      name: Mogli (3)_3
       rect:
         serializedVersion: 2
         x: 960
@@ -223,7 +151,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_9
+      name: Mogli (3)_4
       rect:
         serializedVersion: 2
         x: 1280
@@ -236,7 +164,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_10
+      name: Mogli (3)_5
       rect:
         serializedVersion: 2
         x: 0
@@ -249,7 +177,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_11
+      name: Mogli (3)_6
       rect:
         serializedVersion: 2
         x: 320
@@ -262,7 +190,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_12
+      name: Mogli (3)_7
       rect:
         serializedVersion: 2
         x: 640
@@ -275,7 +203,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_13
+      name: Mogli (3)_8
       rect:
         serializedVersion: 2
         x: 960
@@ -288,7 +216,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_14
+      name: Mogli (3)_9
       rect:
         serializedVersion: 2
         x: 1280
@@ -301,7 +229,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_15
+      name: Mogli (3)_10
       rect:
         serializedVersion: 2
         x: 0
@@ -314,7 +242,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_16
+      name: Mogli (3)_11
       rect:
         serializedVersion: 2
         x: 320
@@ -327,7 +255,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_17
+      name: Mogli (3)_12
       rect:
         serializedVersion: 2
         x: 640
@@ -340,7 +268,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_18
+      name: Mogli (3)_13
       rect:
         serializedVersion: 2
         x: 960
@@ -353,7 +281,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_19
+      name: Mogli (3)_14
       rect:
         serializedVersion: 2
         x: 1280
@@ -366,7 +294,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_20
+      name: Mogli (3)_15
       rect:
         serializedVersion: 2
         x: 0
@@ -379,7 +307,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_21
+      name: Mogli (3)_16
       rect:
         serializedVersion: 2
         x: 320
@@ -392,7 +320,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_22
+      name: Mogli (3)_17
       rect:
         serializedVersion: 2
         x: 640
@@ -405,7 +333,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_23
+      name: Mogli (3)_18
       rect:
         serializedVersion: 2
         x: 960
@@ -418,7 +346,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_24
+      name: Mogli (3)_19
       rect:
         serializedVersion: 2
         x: 1280
@@ -431,36 +359,10 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mogli_25
+      name: Mogli (3)_20
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mogli_26
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mogli_27
-      rect:
-        serializedVersion: 2
-        x: 640
         y: 0
         width: 320
         height: 320

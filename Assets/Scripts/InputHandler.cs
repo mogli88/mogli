@@ -5,12 +5,16 @@ using UnityEngine;
 public class InputHandler : MonoBehaviour {
 
 	public Material mat;
+	public CameraShake cameraShake;
+	public ParticleSystem p;
+	Animator anim;
 	public AudioClip purr;
 	public AudioClip keyboard;
 	private AudioSource audio;
+
 	private Vector3 tmpMousePosition;
-	public CameraShake cameraShake;
-	public ParticleSystem p;
+
+	private bool mouseClicked;
 
 	// Use this for initialization
 	void Start () {
@@ -22,9 +26,12 @@ public class InputHandler : MonoBehaviour {
 		//screen shake
 		GameObject g = GameObject.Find ("Main Camera");
 		cameraShake = g.GetComponent<CameraShake> ();
-
+		//particles
 		ParticleSystem p = GetComponent<ParticleSystem>();
 		hideParticles ();
+		//animations
+		anim = GetComponent<Animator>();
+		mouseClicked = false;
 	}
 
 	// Update is called once per frame
@@ -44,6 +51,7 @@ public class InputHandler : MonoBehaviour {
 
 		if (Input.GetMouseButtonUp (0)) {
 			print ("Released");
+			anim.SetBool ("mouseClicked", false);
 			mat.color = new Color32 (65, 65, 65, 255);
 			audio.Stop ();
 			audio.clip = keyboard;
@@ -55,6 +63,7 @@ public class InputHandler : MonoBehaviour {
 
 		if ((tmpMousePosition != Input.mousePosition) && (Input.GetMouseButtonDown (0))){
 			Debug.Log("Mouse moved");
+			anim.SetBool ("mouseClicked", true);
 			tmpMousePosition = Input.mousePosition;
 			cameraShake.mouseClicked = true;
 			seeParticles();
