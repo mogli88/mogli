@@ -67,7 +67,7 @@ public class InputHandler : MonoBehaviour {
 			tmpMousePosition = Input.mousePosition;
 			cameraShake.mouseClicked = true;
 			seeParticles();
-			mat.color = new Color32 (150, 150, 150, 255);
+			mat.color = new Color32 (180, 180, 180, 255);
 			audio.Stop ();
 			audio.clip = purr;
 			audio.Play();
@@ -80,7 +80,7 @@ public class InputHandler : MonoBehaviour {
 	void seeParticles()
 	{
 		var main = p.main;
-		main.startColor	= new Color (150, 150, 150, 100);
+		main.startColor	= new Color (150, 150, 150, 250);
 	}
 
 	void hideParticles()
